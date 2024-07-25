@@ -6,3 +6,12 @@ Within this project, I go through a fake company's Windows and Apache logs to de
 ## Tools Used
 * Splunk
 * SPL
+
+## Environments Used
+* Linux Ubuntu
+
+## Link to the presentation on Google Slides
+asdfasdf
+
+## Link to the follow up questions
+asdjfajsdfk
