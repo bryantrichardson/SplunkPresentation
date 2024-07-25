@@ -8,7 +8,7 @@ Within this project, I go through a fake company's Windows and Apache logs to de
 * **SPL**
   
 ## Environments Used
-* Linux Ubuntu
+* **Linux Ubuntu**
 
 ## Link to the presentation on Google Slides
 asdfasdf
