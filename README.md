@@ -10,8 +10,8 @@ Within this project, I go through a fake company's Windows and Apache logs to de
 ## Environments Used
 * **Linux Ubuntu**
 
-## Link to the presentation on Google Slides
+## Link to the Presentation on Google Slides
 <a href="https://docs.google.com/presentation/d/1CHAuzvUOUK2e-4YpWhZNZ9_FkscPbzh_ZnXEf-Mn1Ig/edit?usp=sharing" target="_blank" rel="noopener noreferer"> Google Slides Presentation </a>
 
-## Link to the follow up questions
+## Link to the Follow up Questions
 <a href="https://docs.google.com/document/d/1-uHhMpNMGL3CQ5uiP-R5dtmocPi27-IlwJ2P9NsyQ1w/edit" target="_blank" rel="noopener noreferer"> Follow up Questions </a>
