@@ -11,7 +11,7 @@ Within this project, I go through a fake company's Windows and Apache logs to de
 * **Linux Ubuntu**
 
 ## Link to the presentation on Google Slides
-<a href="https://docs.google.com/presentation/d/1CHAuzvUOUK2e-4YpWhZNZ9_FkscPbzh_ZnXEf-Mn1Ig/edit?usp=sharing" target="_blank"> Google Slides Presentation</a>
+<a href="https://docs.google.com/presentation/d/1CHAuzvUOUK2e-4YpWhZNZ9_FkscPbzh_ZnXEf-Mn1Ig/edit?usp=sharing" target="_blank"> Google Slides Presentation </a>
 
 ## Link to the follow up questions
 asdjfajsdfk
